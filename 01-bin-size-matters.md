@@ -15,7 +15,7 @@ See the highlighted parts in the two histograms below.
 ![binsize30_highlighted](https://github.com/user-attachments/assets/4e870f9c-939c-4507-8f8f-c47b5741c1c8)
 ![binsize5_highlighted](https://github.com/user-attachments/assets/06eab296-6afb-4673-8b41-5727d43e6ac3)
 
-Where did the similarity between 200 and 250 and 300 and 350 disappear?
+Where did the similarity between 200-250 and 300-350 disappear?
 Same data but different sense.
 
 **Conclusion:** 
