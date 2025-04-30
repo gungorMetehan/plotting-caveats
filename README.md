@@ -14,3 +14,5 @@ The motivation behind the creation of this repository is to provide a new perspe
      - [R Codes](https://github.com/gungorMetehan/plotting-caveats/blob/main/codes/04-does-your-plot-look-like-spaghetti.R)
 05. [Do Not Attack Cut and Dried Things](https://github.com/gungorMetehan/plotting-caveats/blob/main/05-do-not-attack-cut-and-dried-things.md)
      - [R Codes](https://github.com/gungorMetehan/plotting-caveats/blob/main/codes/05-do-not-attack-cut-and-dried-things.R)
+06. [The Simpson's Paradox](https://github.com/gungorMetehan/plotting-caveats/blob/main/06-the-simpsons-paradox.md)
+     - [R Codes](https://github.com/gungorMetehan/plotting-caveats/blob/main/codes/06-the-simpsons-paradox.R)
