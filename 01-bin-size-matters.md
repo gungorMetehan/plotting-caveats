@@ -1,4 +1,4 @@
-**Bin Size Matters!**
+# **Bin Size Matters!**
 
 A histogram is the most commonly used graph to show frequency distributions. In a histogram, the number of observations in each bin is represented by the height of the bar. However, there is no rule regarding what the appropriate bin size should be in a histogram. Sometimes, this bin size choice can have a strong impact on the chart insight.
 Let’s look at the distribution of chicken weights.
