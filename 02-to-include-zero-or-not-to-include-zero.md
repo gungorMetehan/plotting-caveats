@@ -1,4 +1,4 @@
-**to Include Zero or Not to Include Zero, That is the Question**
+# **to Include Zero or Not to Include Zero, That is the Question**
 
 One of the most controversial issues in data visualization is that the Y-axis does not start at 0. So, should the Y-axis start at 0? Well… It depends.
 
