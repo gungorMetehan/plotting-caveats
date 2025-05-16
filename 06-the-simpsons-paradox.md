@@ -1,4 +1,4 @@
-**The Simpson’s Paradox**
+# **The Simpson’s Paradox**
 > “Trends can exist in subgroups but reverse for the whole”
 
 Simpson’s paradox is a common phenomenon in data analysis and visualization. If not taken into account, it may lead to spurious conclusions or misleading predictions. The paradox happens when an association or relationship between two variables in one direction (e.g., negative) reverses (e.g., becomes positive) when a third variable (e.g., group) is considered.
