@@ -1,4 +1,4 @@
-**Does Your Plot Look Like Spaghetti?**
+# **Does Your Plot Look Like Spaghetti?**
 
 ![buttons](https://github.com/user-attachments/assets/39e354f2-9b81-47cc-a477-4f4dd00352ec)
 
