@@ -1,4 +1,4 @@
-**Reorder Your Data**
+# **Reorder Your Data**
 
 How should the bars in the data visualization be sorted? Sorting by increasing or decreasing frequency may be more meaningful to the readers. However, you may have across bar sorting styles which are not in this way in careless data visualization studies. Since, most of the data visualization tools approach the values in the variables alphabetically or sort of the data entry. You can make more readable the data visualization with minor adjustments.
 For instance, the movie genres awarded at the BAFTA awards are shown in the below lollipop plot (a special case of barplot). Drama and Romance are clearly prominent. But do you think you can list the others easily enough?
