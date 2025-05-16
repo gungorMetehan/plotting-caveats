@@ -1,4 +1,4 @@
-**Do Not Attack Cut and Dried Things**
+# **Do Not Attack Cut and Dried Things**
 
 People are used to seeing data displayed in a usual and logical way. Don't compromise on data visualization standards. But don't attack cut-and-dried things either.
 Let’s examine the plot below. At first glance, you can think that gun deaths in Florida have been increasing over time. However, when the Y-axis is checked it can be easily seen that is not quite right. 
