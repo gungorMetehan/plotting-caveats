@@ -1,6 +1,8 @@
 # Plotting Caveats [R Explanations]
 
-The motivation behind the creation of this repository is to provide a new perspective on the data visualization we often encounter on the internet, on television and in newspapers.
+The motivation behind the creation of this repository is to provide a new perspective on the data visualization we often encounter on the internet, on television, and in newspapers. While plots are powerful tools for communication, they can also be misleading, confusing, or unintentionally humorous when not used carefully.
+
+This repository collects common pitfalls, visual illusions, and real-world examples that highlight the importance of thoughtful and ethical design in data visualization. Whether you're a data enthusiast, a designer, or someone who just enjoys a good graph fail, you'll find something interesting (and maybe a bit funny) here.
 
 **Content**
 
