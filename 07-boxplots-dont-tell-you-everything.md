@@ -5,12 +5,18 @@ Box plots are pretty handy for getting a quick sense of how a variable is distri
 Without it, someone could easily get the wrong idea just by looking at the boxes.
 Let’s check out the example below.
 
+<img width="571" height="492" alt="boxplot1" src="https://github.com/user-attachments/assets/fc8a7f5b-b625-4ab3-9deb-e63fc0ef95cf" />
+
 Here we’ve got three groups of individuals/objects, and we can see how their values are spread out. Groups A and B look kind of similar overall, though group A has a few outliers. 
 Group C, on the other hand, looks a bit different. Now, imagine if we could actually see the data points too—how would that change what we say?
+
+<img width="571" height="492" alt="boxplot2" src="https://github.com/user-attachments/assets/2c5f30ed-c15e-4ef5-8233-90fa000c20fb" />
 
 In this version, the data points have been added with a little “jitter.” That means the points themselves aren’t perfectly precise, but they’re enough to give us a good idea of what’s going on. 
 Looking at this graph, we notice that A and B have close median values, but their spreads are quite different—B even shows a bimodal distribution. 
 And group C? It doesn’t have many data points at all. One thing to remember: box plots don’t tell you how big the sample size is.
+
+<img width="571" height="492" alt="boxplot3" src="https://github.com/user-attachments/assets/465804db-f6b4-421e-9512-0d001c668ccf" />
 
 That’s where violin plots come in. They can show the distribution shape that box plots hide. And if you don’t have too many data points, you can even add them (again with jitter) right onto the violin plot.
 
