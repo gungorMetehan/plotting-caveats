@@ -18,3 +18,5 @@ This repository collects common pitfalls, visual illusions, and real-world examp
      - [R Codes](https://github.com/gungorMetehan/plotting-caveats/blob/main/codes/05-do-not-attack-cut-and-dried-things.R)
 06. [The Simpson's Paradox](https://github.com/gungorMetehan/plotting-caveats/blob/main/06-the-simpsons-paradox.md)
      - [R Codes](https://github.com/gungorMetehan/plotting-caveats/blob/main/codes/06-the-simpsons-paradox.R)
+07. [Boxplots Don't Tell You Everything](https://github.com/gungorMetehan/plotting-caveats/blob/main/07-boxplots-dont-tell-you-everything.md)
+     - [R Codes](https://github.com/gungorMetehan/plotting-caveats/blob/main/codes/07-boxplots-dont-tell-you-everything.R)
