@@ -20,5 +20,5 @@ This repository collects common pitfalls, visual illusions, and real-world examp
      - [R Codes](https://github.com/gungorMetehan/plotting-caveats/blob/main/codes/06-the-simpsons-paradox.R)
 07. [Boxplots Don't Tell You Everything](https://github.com/gungorMetehan/plotting-caveats/blob/main/07-boxplots-dont-tell-you-everything.md)
      - [R Codes](https://github.com/gungorMetehan/plotting-caveats/blob/main/codes/07-boxplots-dont-tell-you-everything.R)
-08. [Pie Charts: Sweet to Look at, Hard to Read](https://github.com/gungorMetehan/plotting-caveats/blob/main/08-pie-charts-sweet-to-look-at-hard-to-read.md)
-
+08. [Pie Charts: Sweet to Look At, Hard to Read](https://github.com/gungorMetehan/plotting-caveats/blob/main/08-pie-charts-sweet-to-look-at-hard-to-read.md)
+     - [R Codes](https://github.com/gungorMetehan/plotting-caveats/blob/main/codes/08-pie-charts-sweet-to-look-at-hard-to-read.R)
